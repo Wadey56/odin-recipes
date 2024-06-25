@@ -21,3 +21,15 @@ ul {
 h3 {
     font-style: italic;
 }
+
+.odd {
+    color: whitesmoke;
+}
+
+.even {
+    color: wheat;
+}
+
+#credit {
+    font-weight: bold;
+}
