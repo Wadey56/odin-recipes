@@ -1,0 +1,14 @@
+body {
+    background-color: #4c5c75;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+a {
+    color: gold;
+    font-size: 20px;
+}
