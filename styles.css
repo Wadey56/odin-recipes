@@ -1,9 +1,10 @@
 body {
+    color: white;
     background-color: #4c5c75;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
-    color: white;
     text-align: center;
     font-weight: bold;
 }
@@ -11,4 +12,12 @@ h1 {
 a {
     color: gold;
     font-size: 20px;
+}
+
+ul {
+    font-weight: bold;
+}
+
+h3 {
+    font-style: italic;
 }
