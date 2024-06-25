@@ -2,6 +2,7 @@ body {
     color: white;
     background-color: #4c5c75;
     font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
 }
 
 h1 {
@@ -32,4 +33,13 @@ h3 {
 
 #credit {
     font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+}
+
+h2 {
+    margin-top: 50px;
 }
